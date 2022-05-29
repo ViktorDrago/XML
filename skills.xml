@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Skills> 
+ <skill 1>Terminal Linux</skill 1>
+ <skill 2>Theory of testing</skill 2>
+ <skill 3>Structure of REST</skill 3>
+ <skill 4>Structure SOAP</skill 4>
+ <skill 5>API and Postman</skill 5>
+ <skill 6>Android Studio and ABD</skill 6>
+</Skills>
