@@ -1,1 +1,12 @@
-
+<?xml version="1.0"?>
+<Bug report>
+  <ID>Идентификационный номер</ID>
+  <Summary>Краткое описание дефекта</Summary>
+  <Severity>Серьезность</Severity>
+  <Preconditions>Предварительные условия</Preconditions>
+  <Step to reproduce>Шаги воспроизведения</Step to reproduce>
+  <Actual Result>Фактический результат</Actual Result>
+  <Expected Result>Ожидаемый результат</Expected Result>
+  <Environment>Окружение</Environment>
+  <Attachment>Вложения</Attachment>
+ </Bug report>
